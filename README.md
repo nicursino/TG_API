@@ -1,5 +1,13 @@
 # Nicolas Cursino Magarifuchi
 
+<body>
+  <div align="left">
+    <h1>Nicolas Cursino Magarifuchi</h1>
+    <kbd><img src="https://avatars.githubusercontent.com/nicursino" width="200px" height="200px"/></kbd>
+    <p><a href="https://www.linkedin.com/in/nicursino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+  </div>
+</body>
+
 ## :books: Introdução
 
 Olá sou Nicolas Cursino, tenho 20 anos e programador em desenvolvimento, atualmente cursando Análise e Desenvolvimento de Sistemas pela FATEC Prof.Jessen Vidal de São José dos Campos e formado em redes de computadores pelo SENAI Santos Dumont. 
