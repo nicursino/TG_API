@@ -1,8 +1,7 @@
 # Nicolas Cursino Magarifuchi
 
 <body>
-  <div align="left">
-    <h1>Nicolas Cursino Magarifuchi</h1>
+  <div align="center">
     <kbd><img src="https://avatars.githubusercontent.com/nicursino" width="200px" height="200px"/></kbd>
     <p><a href="https://www.linkedin.com/in/nicursino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
   </div>
@@ -14,7 +13,8 @@ Olá sou Nicolas Cursino, tenho 20 anos e programador em desenvolvimento, atualm
 
 ## :computer: Meu projetos
 
-### Em 2020-1
+<details>
+  <summary>Em 2020-1</summary>
 
 O projeto integrador desse semestre foi um aplicativo de segurança domiciliar, que foi desenvolvido e criado para uma inovação no mercado de segurança, com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio em suas mãos, onde e quando quiser, por um ótimo custo-benefício , tendo o contato direto um com os nossos desenvolvedores por uma rede social, para sugestões de melhoria e tirar dúvidas, tudo isso para dar o maior conforto, tendo confiabilidade, integridade e disponibilidade com nosso cliente em prol da sua segurança.
 
@@ -53,7 +53,7 @@ Kodular - Sei usar com autonomia.
 Resiliência - No começo era tudo muito novo então, nós precisamos trabalhar bastante e aprender várias novas coisas ao mesmo e administrar esse tempo e trabalho não foi algo fácil, tivemos vários problemas em relação a base dados mas nos adaptamos e conseguimos proceder com o projeto.
 
 Comunicação - Foi muito importante a comunicação que tivemos, principalmente, que estávamos em EAD, então trabalhamos muito nisso já que o tempo todo nós tínhamos que estar atualizados sobre o progresso do projeto frequentemente e trabalhando juntos, sempre estávamos em sintonia.
-
+</details>
 
 
 
