@@ -2,8 +2,8 @@
 
 <body>
   <div align="center">
-    <kbd><img src="https://www.linkedin.com/in/nicolas-cursino-406935184/" width="200px" height="200px"/></kbd>
-    <p><a href="https://www.linkedin.com/in/nicursino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+    <kbd><img src="https://avatars.githubusercontent.com/nicursino" width="200px" height="200px"/></kbd>
+    <p><a href=https://www.linkedin.com/in/nicolas-cursino-406935184/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
   </div>
 </body>
 
