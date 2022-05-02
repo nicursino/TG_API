@@ -42,11 +42,13 @@ Plataforma para desenvolvimento e criação de aplicativos android através do u
 
 ###  Contribuições Pessoais
 
-Eu fiquei responsável pelo o design do aplicativo. O design aos poucos fui aprendendo com o Kodular tive certa facilidade e consegui montar as telas do aplicativo.
+Eu fiquei responsável pelo o design do aplicativo e por sua documentação. O design aos poucos fui aprendendo com o Kodular tive certa facilidade, fui atrás de diversas fontes para uma maior compreensão e aprendizagem, com isso conseguindo montando as telas do aplicativo e estudando o frebase para entender o total funcionamento do proejto, auxiliando meus colegas para o que fosse necessário.
 
 ### Hard Skills
   
 Kodular - Sei usar com autonomia.
+  
+Firebase - Sei usar com ajudar.
 
 ### Soft Skills
 
@@ -76,34 +78,42 @@ Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho 
 
 #### Java
 
-O Java é uma linguagem de programação orientada a objetos e é uma das linguagens mais utilizadas pelas empresas na atualidade no desenvolvimento de aplicações WEB e Mobile.
+O Java é uma linguagem de programação orientada a objetos e é uma das linguagens mais utilizadas pelas empresas na atualidade no desenvolvimento de aplicações WEB e Mobile. Uma tecnologia usada para desenvolver aplicações que tornam a Web mais intuitiva e útil. O Java não é a mesma coisa que o javascript, que é uma tecnologia simples usada para criar páginas Web e só é executado no seu browser.
+  
+O Java permite executar diversos tipos de aplicações como em jogos ou bater papo online. sem ele grandes partes das aplicações que existem simplemesnte não funcionariam.
 
 #### PostgreSQL
   
-O PostgreSQL é uma ferramenta que atua como sistema de gerenciamento de bancos de dados relacionados. Seu foco é permitir implementação da linguagem SQL em estruturas, garantindo um trabalho com os padrões desse tipo de ordenação dos dados.
+O PostgreSQL é uma ferramenta que atua como sistema de gerenciamento de bancos de dados relacionados. Seu foco é permitir implementação da linguagem SQL em estruturas, garantindo um trabalho com os padrões desse tipo de ordenação dos dados. Que cada coisa criada é tratada como um objeto, tais como bancos de dados, tabelas, views, triggers, etc.
 
 #### pgAdmin
 
 O pgAdmin é uma excelente ferramenta para administração do Postgresql, ela permiti fazer todas as tarefas necessárias de administração do banco de dados.
 
 ###  Contribuições Pessoais
-
-
+ 
+Durante o projeto fu responsável por diversas funções, como a maior parte dele foi focada no backend e eu sendo um desenvolvedor frontend, tive que me adaptar ao que fosse mais útli para a equipe então contribui com a construção do banco de dados, como a conexão do software com o banco de dados, prototipação do projeto e sua documentação.  
 
 ### Hard Skills
 
+  <strong>Java</strong> - Sei usar com ajuda.
 
+  <strong>PostgreSQL</strong> - Sei usar com autonomia.
 
+  <strong>pgAdmin</strong> - Sei usar com autonomia.
+  
 ### Soft Skills
-
+  
+Capacidade de adaptação: Tive que me adaptar a proposta do cliente pois o grande parte do projeto foi voltada para o backend, com isso tive de sair da minha zona de conforto com a adaptação de ser mais útil para a equipe, não só apenas conhecimento na parte do frontend, também ao backend. 
 
 </details>
 
 <h2> Meus Principais Conhecimentos </h2>
 
 <h2> Contato </h2>
- 
 
+- GIT
+- linkedin
 
 
 
