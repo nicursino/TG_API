@@ -110,10 +110,19 @@ Capacidade de adaptação: Tive que me adaptar a proposta do cliente pois o gran
 
 <h2> Meus Principais Conhecimentos </h2>
 
+#### HTML
+
+#### CSS
+
+#### JavaScript
+
+#### ReactNative
+
 <h2> Contato </h2>
 
-- GIT
-- linkedin
+<a href="https://github.com/nicursino"> - GIT </a>
+
+<a href="https://www.linkedin.com/in/nicolas-cursino-406935184/"> - Linkedin </a>
 
 
 
