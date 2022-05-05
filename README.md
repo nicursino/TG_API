@@ -16,21 +16,23 @@ Olá sou Nicolas Cursino, tenho 20 anos e programador em desenvolvimento. Atualm
 <details>
   <summary>Em 2020-1</summary>
 
+### Resumo
+  
 O projeto integrador desse semestre foi um aplicativo de segurança domiciliar, foi desenvolvido e criado para uma inovação no mercado com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio em suas mãos, onde e quando quiser, por um ótimo custo-benefício tendo o contato direto com os nossos desenvolvedores por uma rede social para sugestões de melhoria e tirar dúvidas tendo confiabilidade, integridade e disponibilidade com nosso cliente em prol da sua segurança.
 
-### :book: Parceiro Acadêmico
+### Parceiro Acadêmico
 
 FATEC - Prof. Jessen Vidal, proposto pelo o Prof. Jean Carlos Lourenço Costa da disciplina de Programação em Microinformática.
 
-### :thinking: Problema
+### Problema
 
 Criar um aplicativo com o objetivo de implementar as tecnologias de programação modular e banco de dados.
 
-### :bulb: Solução
+### Solução
 
 Aplicativo de segurança doméstica para trazer o máximo de segurança e conforto para o cliente, tendo em vista, a autonomia total do cliente sobre a segurança do seu próprio domicilio onde e quando quiser.
 
-### :man_technologist: Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 #### Firebase - database
 
@@ -40,7 +42,7 @@ Aplicativo de segurança doméstica para trazer o máximo de segurança e confor
 
 Plataforma para desenvolvimento e criação de aplicativos android através do uso de blocos lógicos e programação. Nele podemos desenvolver todo o nosso projeto usando programação em blocos e design do aplicativo.
 
-###  Contribuições Pessoais
+### Contribuições Pessoais
 
 Eu fiquei responsável pelo o design do aplicativo e por sua documentação. O design aos poucos fui aprendendo com o Kodular tive certa facilidade, fui atrás de diversas fontes para uma maior compreensão e aprendizagem, com isso conseguindo montando as telas do aplicativo e estudando o frebase para entender o total funcionamento do proejto, auxiliando meus colegas para o que fosse necessário.
 
@@ -60,21 +62,23 @@ Comunicação - Foi muito importante a comunicação que tivemos, principalmente
 <details>
   <summary>Em 2020-2</summary>
   
+  ### Resumo
+  
   O projeto integrador desse semestre foi desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento, acompanhamento e controle.
 
-### :book: Parceiro Acadêmico
+### Parceiro Acadêmico
 
 IACIT - Empresa de capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio de Controle.
   
-### :thinking: Problema
+### Problema
   
 Monitorar a jornada dos funcionários de ponta a ponta de uma maneira que seja intuitiva e de fácil usabilidade, para ter segurança no transporte de cargas e controle dos horários dos motoristas, tendo a melhor experiência do usuário e rapidez no registro de ações.
 
-### :bulb: Solução
+### Solução
 
 Desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas, de modo que motorista, funcionário e administrador tenham suas próprias funcionalidades no sistema.
 
-### :man_technologist: Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 #### Java
 
@@ -90,7 +94,7 @@ O PostgreSQL é uma ferramenta que atua como sistema de gerenciamento de bancos 
 
 O pgAdmin é uma excelente ferramenta para administração do Postgresql, ela permiti fazer todas as tarefas necessárias de administração do banco de dados.
 
-###  Contribuições Pessoais
+### Contribuições Pessoais
  
 Durante o projeto fu responsável por diversas funções, como a maior parte dele foi focada no backend e eu sendo um desenvolvedor frontend, tive que me adaptar ao que fosse mais útli para a equipe então contribui com a construção do banco de dados, como a conexão do software com o banco de dados, prototipação do projeto e sua documentação.  
 
@@ -108,7 +112,64 @@ Capacidade de adaptação: Tive que me adaptar a proposta do cliente pois o gran
 
 </details>
 
-<h2> Meus Principais Conhecimentos </h2>
+<details>
+  <summary>Em 2021-1</summary>
+
+### Resumo
+
+O projeto integrador deste semestre que por conta da COVID-19, cada vez mais foi requisitado formas mais seguras de interagir com as pessoas por meio da tecnologia. O desafio foi achar uma solução para facilitar a vida de estudantes com uma plataforma de ensino remoto com praticidade e facilidade.
+
+### Parceiro Acadêmico
+
+A empresa parceira desse projeto foi a Ness Health, empresa de tecnologia que inova e transforma diariamente a área da saúde, implementando tecnologias que transformam a medicina moderna. 
+  
+### Problema
+
+Facilitar a vida de estudantes com uma plataforma de ensino remoto com praticidade e facilidade.
+
+### Solução
+  
+Criação da plataforma nEDUC, uma plataforma de ensino digital com ampla variedade de conteúdo de qualidade para superar as limitações do ensino no Brasil. Sendo uma plataforma gratuita com um sistema completo e responsivo.
+
+### Tecnologias Utilizadas
+
+#### HTML
+É uma linguagem de computador que compõe a maior parte das páginas da internet e dos aplicativos online. Um hipertexto é um texto usado para fazer referência a outros textos, enquanto uma linguagem de marcação é composta por uma série de marcações que dizem para os servidores da web qual é o estilo e a estrutura de um documento.
+
+O HTML não é considerado uma linguagem de programação, já que ele não pode criar funcionalidades dinâmicas. Ao invés disso, com o HTML, os usuários podem criar e estruturar seções, parágrafos e links usando elementos, tags e atributos.
+ 
+#### CSS
+É chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense  na decoração da sua página. Utilizando o CSS é possível alterar a cor do texto e do fundo, fonte e espaçamento entre parágrafos. Também pode criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.
+
+#### JavaScript
+A linguagem de programação Javascript permite ao desenvolvedor implementar diversos itens de alto nível de complexidade em páginas web, como animações, mapas, gráficos ou informações que se atualizam em intervalos de tempo padrão, por exemplo.
+
+Javascript é a terceira camada do bolo de desenvolvimento web e front-end, junto com HTML, CSS e PHP.
+
+#### Java
+É uma linguagem de programação orientada a objetos e é uma das linguagens mais utilizadas pelas empresas na atualidade no desenvolvimento de aplicações WEB e Mobile. Uma tecnologia usada para desenvolver aplicações que tornam a Web mais intuitiva e útil. O Java não é a mesma coisa que o javascript, que é uma tecnologia simples usada para criar páginas Web e só é executado no seu browser.
+  
+O Java permite executar diversos tipos de aplicações como em jogos ou bater papo online. sem ele grandes partes das aplicações que existem simplemesnte não funcionariam.
+
+#### Postgree
+É uma ferramenta que atua como sistema de gerenciamento de bancos de dados relacionados. Seu foco é permitir implementação da linguagem SQL em estruturas, garantindo um trabalho com os padrões desse tipo de ordenação dos dados. Que cada coisa criada é tratada como um objeto, tais como bancos de dados, tabelas, views, triggers, etc.
+
+
+### Contribuições Pessoais
+
+### Hard Skills
+HTML - Sei usar com autonomia.
+  
+CSS - Sei usar com autonomia.
+  
+JavaScript - Sei usar com autonomia.
+  
+### Soft Skills
+  
+  
+</details>
+
+<h2> 📘 Meus Principais Conhecimentos </h2>
 
 #### HTML
 
@@ -118,7 +179,7 @@ Capacidade de adaptação: Tive que me adaptar a proposta do cliente pois o gran
 
 #### ReactNative
 
-<h2> Contato </h2>
+<h2> 📌 Contato </h2>
 
 <a href="https://github.com/nicursino"> - GIT </a>
 
