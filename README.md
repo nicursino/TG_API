@@ -1,5 +1,7 @@
 # Nicolas Cursino Magarifuchi
 
+## :books: Introdução
+
 <body>
   <div align="center">
     <kbd><img src="https://avatars.githubusercontent.com/nicursino" width="200px" height="200px"/></kbd>
@@ -7,9 +9,7 @@
   </div>
 </body>
 
-## :books: Introdução
-
-Olá sou Nicolas Cursino, tenho 20 anos e programador em desenvolvimento. Atualmente cursando Análise e Desenvolvimento de Sistemas pela FATEC Prof. Jessen Vidal e formado em redes de computadores pelo SENAI Santos Dumont. No momento sou estagiário de ciência da computação pela prefeitura de São José dos Campos. Durante os semestres participei dos projetos integradores - APIs - que são uma parceria entre a faculdade e uma empresa, onde temos um problema real e precisamos encontrar uma solução aplicando os conhecimentos desenvolvidos. 
+Tenho 21 anos e programador em desenvolvimento, atualmente cursando Análise e Desenvolvimento de Sistemas pela FATEC Prof. Jessen Vidal e formado em redes de computadores pelo SENAI Santos Dumont. Sou Estagiário em Qualidade de Software na ENACOM Group há mais de um ano.
 
 ## :computer: Meu projetos
 
@@ -163,27 +163,34 @@ HTML - Sei usar com autonomia.
 CSS - Sei usar com autonomia.
   
 JavaScript - Sei usar com autonomia.
-  
+
 ### Soft Skills
   
   
 </details>
 
+<details>
+<summary>Em 2021-2</summary>
+</details>
+
+<details>
+<summary>Em 2022-1</summary>
+</details>
+
+<details>
+<summary>Em 2022-2</summary>
+</details>
+  
+
 <h2> 📘 Meus Principais Conhecimentos </h2>
 
-#### HTML
-
-#### CSS
-
-#### JavaScript
-
-#### ReactNative
+- HTML e CSS
+- JavaScript
+- ReactNative
 
 <h2> 📌 Contato </h2>
 
-<a href="https://github.com/nicursino"> - GIT </a>
-
-<a href="https://www.linkedin.com/in/nicolas-cursino-406935184/"> - Linkedin </a>
+- [Linkedin](https://www.linkedin.com/in/nicolas-magarifuchi-406935184/)
 
 
 
