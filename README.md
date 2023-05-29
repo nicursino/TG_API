@@ -17,7 +17,7 @@ Tenho 21 anos e programador em desenvolvimento, atualmente cursando Análise e D
   <summary>Em 2020-1</summary>
 
 ### Resumo
-  
+
 O projeto integrador desse semestre foi um aplicativo de segurança domiciliar, foi desenvolvido e criado para uma inovação no mercado com a facilidade e funcionalidade de ter a autonomia da segurança do seu domicílio em suas mãos, onde e quando quiser, por um ótimo custo-benefício tendo o contato direto com os nossos desenvolvedores por uma rede social para sugestões de melhoria e tirar dúvidas tendo confiabilidade, integridade e disponibilidade com nosso cliente em prol da sua segurança.
 
 ### Parceiro Acadêmico
@@ -44,7 +44,7 @@ Plataforma para desenvolvimento e criação de aplicativos android através do u
 
 ### Contribuições Pessoais
 
-Eu fiquei responsável pelo o design do aplicativo e por sua documentação. O design aos poucos fui aprendendo com o Kodular tive certa facilidade, fui atrás de diversas fontes para uma maior compreensão e aprendizagem, com isso conseguindo montando as telas do aplicativo e estudando o frebase para entender o total funcionamento do proejto, auxiliando meus colegas para o que fosse necessário.
+Eu fiquei responsável pelo o desing do aplicativo e por sua documentação. O design aos poucos fui aprendendo com o Kodular tive certa facilidade, fui atrás de diversas fontes para uma maior compreensão e aprendizagem, com isso conseguindo montando as telas do aplicativo e estudando o frebase para entender o total funcionamento do proejto, auxiliando meus colegas para o que fosse necessário.
 
 ### Hard Skills
   
@@ -151,7 +151,7 @@ Javascript é a terceira camada do bolo de desenvolvimento web e front-end, junt
   
 O Java permite executar diversos tipos de aplicações como em jogos ou bater papo online. sem ele grandes partes das aplicações que existem simplemesnte não funcionariam.
 
-#### Postgree
+#### PostGreSQL
 É uma ferramenta que atua como sistema de gerenciamento de bancos de dados relacionados. Seu foco é permitir implementação da linguagem SQL em estruturas, garantindo um trabalho com os padrões desse tipo de ordenação dos dados. Que cada coisa criada é tratada como um objeto, tais como bancos de dados, tabelas, views, triggers, etc.
 
 
@@ -171,14 +171,106 @@ JavaScript - Sei usar com autonomia.
 
 <details>
 <summary>Em 2021-2</summary>
+
+### Resumo
+
+### Parceiro Acadêmico
+
+### Problema
+
+### Solução
+
+### Tecnologias Utilizadas
+  
+### Contribuições Pessoais
+
+### Hard Skills
+
+### Soft Skills
+
 </details>
 
 <details>
 <summary>Em 2022-1</summary>
+
+### Resumo
+
+O nosso projeto integrador deste semestre tinha como objetivo a criação de um aplicativo mobile de notificação de atualizações e consulta de PDFs, conhecidos neste projeto como FOLs, que continham novas informações sobre problemas que recorrentes que podem acontecer nos veículos dos clientes.
+
+### Parceiro Acadêmico
+
+EMBRAER - é um conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área.
+
+### Problema
+
+Notificar clientes sobre novas informações sobre problemas recorrentes que podem acontecer em seus veículos.
+
+### Solução
+  
+Criar um aplicativo mobile de notificação de atualizações e consulta de PDFs, conhecidos como FOLs para ficar a disposição dos clientes quando fosse necessitado.
+
+### Tecnologias Utilizadas
+
+#### Java
+  
+É uma linguagem de programação orientada a objetos e é uma das linguagens mais utilizadas pelas empresas na atualidade no desenvolvimento de aplicações WEB e Mobile. Uma tecnologia usada para desenvolver aplicações que tornam a Web mais intuitiva e útil. O Java não é a mesma coisa que o javascript, que é uma tecnologia simples usada para criar páginas Web e só é executado no seu browser.
+  
+O Java permite executar diversos tipos de aplicações como em jogos ou bater papo online. sem ele grandes partes das aplicações que existem simplemesnte não funcionariam.
+
+#### React Native
+
+o React Native é um Framework para desenvolvimento de aplicativos móveis multiplataforma. Um Framework é um facilitador no desenvolvimento de diversas aplicações e, sem dúvida, sua utilização poupa tempo e custos para quem utiliza e é um conjunto de bibliotecas utilizadas para criar uma base, onde as aplicações são construídas, um otimizador de recursos.
+
+Baseado no React, framework JS para desenvolvimento web, o React Native possibilita a criação de aplicações móvel multiplataforma (Android e iOS) utilizando apenas Javascript. Porém, diferente de outros frameworks com esta mesma finalidade (Cordova, por exemplo), todo o código desenvolvido com o React Native é convertido para linguagem nativa do sistema operacional, o que torna o app muito mais fluido.
+
+#### PostGreSQL
+  
+É uma ferramenta que atua como sistema de gerenciamento de bancos de dados relacionados. Seu foco é permitir implementação da linguagem SQL em estruturas, garantindo um trabalho com os padrões desse tipo de ordenação dos dados. Que cada coisa criada é tratada como um objeto, tais como bancos de dados, tabelas, views, triggers, etc.
+  
+#### MongoDB
+
+O MongoDB é um banco de dados de documentos usado para criar aplicativos de Internet altamente disponíveis e escaláveis. Com sua abordagem de esquema flexível , é popular entre as equipes de desenvolvimento que usam metodologias ágeis. Oferecendo drivers para todas as principais linguagens de programação, o MongoDB permite que você comece imediatamente a construir seu aplicativo sem perder tempo configurando um banco de dados.
+    
+### Contribuições Pessoais
+
+Fiquei responsável pela parte do frontend do projeto utilizando o framewrok React Native para o desenvolvimento do aplicativo, tive certa dificuldade no começo por conta de ser uma nova tecnologia que não tinha conhecimento mas ao longo do projeto pude desenvolver meu aprendizado com sua frequência utilização e como Scrum Master também fiquei com a resposabilidade de documentação do projeto e atribuição de tarefas para a equipe.
+
+### Hard Skills
+
+  <strong> React Native </strong> - Sei usar com autonomia 
+
+  <strong> Java </strong> - Sei usar com ajuda 
+
+  <strong> MongoDB </strong> - Sei usar com ajuda 
+
+### Soft Skills
+  
+Comunicação - Foi essencial a comunicação entre os integrantes do grupo ainda bem por ser scrum master da equipe, estando o tempo todo disponível, comunicando e solicitando feedbacks sobre o andamento de entregas da equipe.
+
+Organização - A organização e distribuição de tarefas para os integrantes da equipe foi um ponto de extrema importância para que as entregas de cada sprint tivessem seus devidos MVPs completos e entregues para o cliente de forma satisfatória.
+
+Motivação - Por ser scrum master precisava manter a equipe motivada nas entregas para que não houvesse desânimo por algum feedback ruim ou pelas dificuldades que passamos em todas as sprints para o desenvolvimento do aplicativo, mantendo a tranquilidade para que não estivessem pressionados e pudessem fazer as entregas de forma calma e segura.
+  
 </details>
 
 <details>
 <summary>Em 2022-2</summary>
+  
+### Resumo
+
+### Parceiro Acadêmico
+
+### Problema
+
+### Solução
+
+### Tecnologias Utilizadas
+  
+### Contribuições Pessoais
+
+### Hard Skills
+
+### Soft Skills
 </details>
   
 
