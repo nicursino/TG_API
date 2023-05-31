@@ -245,9 +245,9 @@ Fiquei responsável pela parte do frontend do projeto utilizando o framewrok Rea
 
 ### Soft Skills
   
-Comunicação - Foi essencial a comunicação entre os integrantes do grupo ainda bem por ser scrum master da equipe, estando o tempo todo disponível, comunicando e solicitando feedbacks sobre o andamento de entregas da equipe.
+Comunicação - Foi essencial a comunicação entre os integrantes do grupo por ser scrum master da equipe, estando o tempo todo disponível, comunicando e solicitando feedbacks sobre o andamento de entregas da equipe.
 
-Organização - A organização e distribuição de tarefas para os integrantes da equipe foi um ponto de extrema importância para que as entregas de cada sprint tivessem seus devidos MVPs completos e entregues para o cliente de forma satisfatória.
+Organização - A organização e distribuição de tarefas para os integrantes da equipe foi um ponto de extrema importância para que as entregas de cada sprint tivessem seus devidos MVPs completos para o cliente de forma satisfatória.
 
 Motivação - Por ser scrum master precisava manter a equipe motivada nas entregas para que não houvesse desânimo por algum feedback ruim ou pelas dificuldades que passamos em todas as sprints para o desenvolvimento do aplicativo, mantendo a tranquilidade para que não estivessem pressionados e pudessem fazer as entregas de forma calma e segura.
   
@@ -257,20 +257,58 @@ Motivação - Por ser scrum master precisava manter a equipe motivada nas entreg
 <summary>Em 2022-2</summary>
   
 ### Resumo
+  
+O projeto constitui de uma adição de uma nova ferramenta a uma aplicação feita em outro projeto para a Visiona. Nesta ferramenta era necessário ir ao campo contar vagens e grãos para sua utilização e isso exigia tempo do agricultor, assim nos foi dada a ideia de criar uma ferramenta com inteligência artificial para contagem automática e visual destes grãos para facilitar a vida do agricultor.
 
 ### Parceiro Acadêmico
 
+VISIONA - é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais.
+
 ### Problema
 
+Agricultor tendo falta de praticidade e exigindo muito tempo do mesmo para fazer a contagem das sementes de soja.
+
 ### Solução
+  
+Adicionar uma nova funcionalidade na ferramenta ja usada pelo agricultor, criando assim uma ferramenta com inteligência artificial para contagem atuomática e visual dos grãos.
 
 ### Tecnologias Utilizadas
+
+#### Tensorflow
+
+TensorFlow é uma biblioteca de código aberto criada para aprendizado de máquina, computação numérica e muitas outras tarefas. Foi desenvolvido pelo Google em 2015 e rapidamente se tornou uma das principais ferramentas para machine learning e deep learning.
+
+#### Keras
+
+O Keras é uma biblioteca de rede neural de código aberto escrita em Python. Ele é capaz de rodar em cima de TensorFlow, Microsoft Cognitive Toolkit, R, Theano, ou PlaidML. Projetado para permitir experimentação rápida com redes neurais profundas, ele se concentra em ser fácil de usar, modular e extensível.
+
+#### Python
+
+Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. 
+
+#### PostgreSQL
+
+É uma ferramenta que atua como sistema de gerenciamento de bancos de dados relacionados. Seu foco é permitir implementação da linguagem SQL em estruturas, garantindo um trabalho com os padrões desse tipo de ordenação dos dados. Que cada coisa criada é tratada como um objeto, tais como bancos de dados, tabelas, views, triggers, etc.
+
+#### Flask
+  
+Flask é um pequeno framework web escrito em Python. É classificado como um microframework porque não requer ferramentas ou bibliotecas particulares, mantendo um núcleo simples, porém, extensível.
   
 ### Contribuições Pessoais
 
+Para começar neste projeto fui PO da equipe logo tendo contato direto com o cliente assim fazendo perguntas e passando as informações essenciais para minha equipe, validando backlogs da sprint antes das entregas e ficando responsável por toda documentação do projeto. Contribui no treinamento da IA para reconhecimento de imagem das vagens com treinamentos frequentes para maior porcentagem de acerto da IA ao identificar a quantidade de sementes de soja presentes na vagem. 
+
 ### Hard Skills
+  
+  <strong> keras </strong> - Sei usar com autonomia 
+
+  <strong> Tensorflow </strong> - Sei usar com autonomia
+
+  <strong> PostgreSQL </strong> - Sei usar com autonomia
+
 
 ### Soft Skills
+  
 </details>
   
 
