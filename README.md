@@ -57,6 +57,12 @@ Firebase - Sei usar com ajudar.
 Resiliência - No começo era tudo muito novo então, nós precisamos trabalhar bastante e aprender várias novas coisas ao mesmo e administrar esse tempo e trabalho não foi algo fácil, tivemos vários problemas em relação a base dados mas nos adaptamos e conseguimos proceder com o projeto.
 
 Comunicação - Foi muito importante a comunicação que tivemos, principalmente, que estávamos em EAD, então trabalhamos muito nisso já que o tempo todo nós tínhamos que estar atualizados sobre o progresso do projeto frequentemente e trabalhando juntos, sempre estávamos em sintonia.
+ 
+**Vídeos do projeto:**
+
+- [Câmera de segurança](https://drive.google.com/file/d/1ZTmHyagF4pVJgk02Pg6iP88g4zk6GSTO/view?usp=sharing)
+- [Chamadas de Emergência](https://drive.google.com/file/d/1ZZMmOgKXKVMSb6pout-qUtOB4mkpSJ-r/view?usp=sharing)
+  
 </details>
 
 <details>
@@ -64,7 +70,7 @@ Comunicação - Foi muito importante a comunicação que tivemos, principalmente
   
   ### Resumo
   
-  O projeto integrador desse semestre foi desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento, acompanhamento e controle.
+O projeto integrador desse semestre foi desenvolver um aplicativo de gerenciamento para controle da jornada de trabalho dos motoristas de forma parametrizável, visando funcionalidades de planejamento, acompanhamento e controle.
 
 ### Parceiro Acadêmico
 
@@ -108,7 +114,18 @@ Durante o projeto fu responsável por diversas funções, como a maior parte del
   
 ### Soft Skills
   
-Capacidade de adaptação: Tive que me adaptar a proposta do cliente pois o grande parte do projeto foi voltada para o backend, com isso tive de sair da minha zona de conforto com a adaptação de ser mais útil para a equipe, não só apenas conhecimento na parte do frontend, também ao backend. 
+Capacidade de adaptação: Tive que me adaptar a proposta do cliente pois o grande parte do projeto foi voltada para o backend, com isso tive de sair da minha zona de conforto com a adaptação de ser mais útil para a equipe, não só apenas conhecimento na parte do frontend, também ao backend.
+
+**Vídeos do projeto finalizado:**
+
+- [Adicionar viagem do funcionário](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Adicionar-viagem-Funcionario3_1.gif)
+- [Verificar viagens finalizadas](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Como-verificar-viagens-finalizadas-Funcionario3_2.gif)
+- [Verificar status de viagem](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Verificar-status-em-tempo-real3_3.gif)
+- [Mudar status de viagem](https://github.com/DevSlim001/PI_2020.2/blob/master/assets/Mudar-status-de-viagem-Motorista3_4.gif)
+
+
+
+<a href="https://github.com/DevSlim001/PI_2020.2" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
 </details>
 
@@ -135,8 +152,6 @@ Criação da plataforma nEDUC, uma plataforma de ensino digital com ampla varied
 
 #### HTML
 É uma linguagem de computador que compõe a maior parte das páginas da internet e dos aplicativos online. Um hipertexto é um texto usado para fazer referência a outros textos, enquanto uma linguagem de marcação é composta por uma série de marcações que dizem para os servidores da web qual é o estilo e a estrutura de um documento.
-
-O HTML não é considerado uma linguagem de programação, já que ele não pode criar funcionalidades dinâmicas. Ao invés disso, com o HTML, os usuários podem criar e estruturar seções, parágrafos e links usando elementos, tags e atributos.
  
 #### CSS
 É chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense  na decoração da sua página. Utilizando o CSS é possível alterar a cor do texto e do fundo, fonte e espaçamento entre parágrafos. Também pode criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.
@@ -157,6 +172,8 @@ O Java permite executar diversos tipos de aplicações como em jogos ou bater pa
 
 ### Contribuições Pessoais
 
+Como desenvolvedor fiquei responsável pela parte do frontend da aplicação utilizando as tecnologias HTML e CSS para o seu desenvolvimento. 
+
 ### Hard Skills
 HTML - Sei usar com autonomia.
   
@@ -165,6 +182,20 @@ CSS - Sei usar com autonomia.
 JavaScript - Sei usar com autonomia.
 
 ### Soft Skills
+  
+Trabalho em equipe: para organização e divisão de tarefas foi preciso o trabalho em equipe de todos os integrantes da equipe assim podendo ver o desempenho e comprometimento para o desenvolvimento da aplicação.
+ 
+**Vídeos do projeto:**
+
+![Responsividade](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Responsividade.gif)
+
+![Cadastro-de-curso-e-tarefa](https://github.com/DevSlim001/API_NEDUC/blob/main/readassets/Cadastro-de-curso-e-tarefa.gif)
+
+![ADM](https://github.com/DevSlim001/API_NEDUC/blob/sprint_4/Cadastrodenovidades.gif)
+
+![GESTOR](https://github.com/DevSlim001/API_NEDUC/blob/sprint_4/Homegestor.gif)
+
+<a href="https://github.com/DevSlim001/API_NEDUC" target="__blank">Clique aqui para mais informações sobre o projeto</a>
   
   
 </details>
