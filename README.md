@@ -282,6 +282,12 @@ Organização - A organização e distribuição de tarefas para os integrantes 
 
 Motivação - Por ser scrum master precisava manter a equipe motivada nas entregas para que não houvesse desânimo por algum feedback ruim ou pelas dificuldades que passamos em todas as sprints para o desenvolvimento do aplicativo, mantendo a tranquilidade para que não estivessem pressionados e pudessem fazer as entregas de forma calma e segura.
   
+**Vídeos do projeto:**
+  
+![application](https://github.com/medrenan/eFol-app/blob/main/docs/Wireframes/Sprint%202/application.gif)
+  
+<a href="https://github.com/medrenan/eFol-app" target="__blank">Clique aqui para mais informações sobre o projeto</a>
+  
 </details>
 
 <details>
@@ -339,6 +345,8 @@ Para começar neste projeto fui PO da equipe logo tendo contato direto com o cli
 
 
 ### Soft Skills
+  
+  
   
 </details>
   
