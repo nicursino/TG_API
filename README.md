@@ -205,7 +205,7 @@ Trabalho em equipe: para organização e divisão de tarefas foi preciso o traba
 
 ### Resumo
 
-
+O desafio do projeto foi com base em um problema real enfrentado na Embraer; na empresa toda a aeronave produzida conta com um manual operacional que demonstra o funcionamento de suas peças. No entanto, o manual é criado e mantido de forma manual, utilizando planilhas para fazer o controle do lançamento de manuais atualizados. Além desta prática necessitar de bastante tempo devido a complexidade, implica no surgimento de erros nos manuais com a solução foi elaborar uma aplicação desktop que, comunicando com um servidor interno da empresa, seja capaz de criar, manipular e dispor os manuais para os clientes de fomra facilitada.
 
 ### Parceiro Acadêmico
 
@@ -238,9 +238,28 @@ A interface do usuário foi construída utilizando AngularJS, um framework front
   
 ### Contribuições Pessoais
 
+Atuei como desenvolvedor front-end da aplicação, sendo responsável pela construção das telas para o usuário e pelo back-end aplicando as regras de negócio do cliente para a construção, gerencimanto e publicação dos manuais das aeronaves.
+
 ### Hard Skills
 
+  <strong> Angular </strong> - sei fazer com ajuda
+
+  <strong> PostgreSQL </strong> - sei fazer com ajuda
+
 ### Soft Skills
+
+Comunicação: Por ter sido um projeto com diversos problemas então para que esses problemas fossem lidados da melhor maneira possível a comunicação clara foi essencial.
+
+Trabalho em equipe: Por termos dificuldades com novas tecnologias e implementar elas, o compartilhamento de conhecimentos e o trabalho em equipe para encontrar soluções para o andamento do projeto.
+
+**imagens do projeto:**
+
+<p align="center">
+ <img src="https://github.com/developersapi/Sistema-Web-com-Regra-de-Negocio/blob/main/wf1.png">
+  <img src="https://github.com/developersapi/Sistema-Web-com-Regra-de-Negocio/blob/main/wf3.png">
+</p>
+
+<a href="https://github.com/developersapi/Sistema-Web-com-Regra-de-Negocio" target="__blank">Clique aqui para mais informações sobre o projeto</a>
 
 </details>
 
@@ -390,8 +409,9 @@ Comunicação - Foi essencial a comunicação entre os integrantes do grupo por 
 <h2> 📘 Meus Principais Conhecimentos </h2>
 
 - HTML e CSS
-- JavaScript
-- ReactNative
+- React
+- Banco de dados relacionais
+
 
 <h2> 📌 Contato </h2>
 
