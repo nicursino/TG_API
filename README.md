@@ -205,13 +205,36 @@ Trabalho em equipe: para organização e divisão de tarefas foi preciso o traba
 
 ### Resumo
 
+
+
 ### Parceiro Acadêmico
+
+EMBRAER - é um conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área.
 
 ### Problema
 
+O desafio do projeto foi com base em um problema real enfrentado na Embraer; na empresa toda a aeronave produzida conta com um manual operacional que demonstra o funcionamento de suas peças. No entanto, o manual é criado e mantido de forma manual, utilizando planilhas para fazer o controle do lançamento de manuais atualizados. Além desta prática necessitar de bastante tempo devido a complexidade, implica no surgimento de erros nos manuais.
+
 ### Solução
 
+A solução foi elaborar uma aplicação desktop que, comunicando com um servidor interno da empresa, seja capaz de criar, manipular e dispor os manuais para os clientes de fomra facilitada.
+
 ### Tecnologias Utilizadas
+
+#### Spring Framework
+Spring é um framework Java amplamente utilizado pela comunidade que otimiza o processo de desenvolvimento web em Java, possibilitando um maior domínio do projeto que está sendo desenvolvido com um suporte à infraestrutura direto na aplicação, permitindo que os desenvolvedores possam se concentrar na parte lógica da aplicação, sem se preocupar com configurações de ambiente.
+
+A ferramente possui uma plenitude de funcionalidades, se destacando entre elas o Spring Data, módulo responsável pela conexão da aplicação com um banco de dados que possibilita trabalhar com mais facilidade por fazer essa integração de forma mais direta.
+
+Também é notável o Spring MVC, tecnologia que facilita o desenvolvimento Web em Java permitindo construir uma aplicação web ou API Rest de forma simples e intuitiva, gerando aplicações robustas e flexíveis.
+
+O Spring foi a tecnologia chave do projeto, utilizada para construir as rotas de integração com banco de dados, adotando a lógica necessária para o tratamento dos manuais, e a comunicação com a interface gráfica do usuário.
+
+#### PostgreSQL
+O banco de dados do sistema proposto foi construido com o PostgreSQL, um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface para adicionar, acessar e processar os dados de uma aplicação. Foi utilizado para fazer a persistência dos dados.
+
+#### AngularJS
+A interface do usuário foi construída utilizando AngularJS, um framework front-end javascript que oferece um padrão de comopnentização de elementos HTML, facilitando o trabalho do desenvolvimento e integração das telas.
   
 ### Contribuições Pessoais
 
@@ -345,9 +368,22 @@ Para começar neste projeto fui PO da equipe logo tendo contato direto com o cli
 
 
 ### Soft Skills
+
+Comunicação - Foi essencial a comunicação entre os integrantes do grupo por ser PO da equipe, estando o tempo todo disponível, comunicando e solicitando feedbacks sobre o andamento de entregas da equipe.
   
+**Vídeos e imagens do projeto:**
+
+<p align="center">
+ <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Mockup/Sprint%204/App-running.gif">
+</p>
+
+| Step 1 | Step 2 | Step 3 | Step 4 | Step 5 |
+| --- | --- | --- | --- | --- |
+| <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Mockup/Sprint%204/App%20step%201.jpeg" width="250"> | <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Mockup/Sprint%204/App%20step%202.jpeg" width="250"> | <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Mockup/Sprint%204/App%20step%203.jpeg" width="250"> | <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Mockup/Sprint%204/App%20step%204.jpeg" width="250"> | <img src="https://github.com/medrenan/SoyIA/blob/main/doc/Mockup/Sprint%204/App%20step%205.jpeg" width="250"> |
+
   
-  
+<a href="https://github.com/medrenan/SoyIA" target="__blank">Clique aqui para mais informações sobre o projeto</a>
+
 </details>
   
 
