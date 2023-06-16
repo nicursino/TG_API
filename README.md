@@ -205,7 +205,7 @@ Trabalho em equipe: para organização e divisão de tarefas foi preciso o traba
 
 ### Resumo
 
-O desafio do projeto foi com base em um problema real enfrentado na Embraer; na empresa toda a aeronave produzida conta com um manual operacional que demonstra o funcionamento de suas peças. No entanto, o manual é criado e mantido de forma manual, utilizando planilhas para fazer o controle do lançamento de manuais atualizados. Além desta prática necessitar de bastante tempo devido a complexidade, implica no surgimento de erros nos manuais com a solução foi elaborar uma aplicação desktop que, comunicando com um servidor interno da empresa, seja capaz de criar, manipular e dispor os manuais para os clientes de fomra facilitada.
+O projeto enfrentou um desafio baseado em um problema real enfrentado na Embraer. Cada aeronave produzida pela empresa é acompanhada por um manual operacional que descreve o funcionamento de suas peças. No entanto, a criação e manutenção desse manual são realizadas de forma manual, utilizando planilhas para controlar o lançamento de atualizações. Essa abordagem consome muito tempo devido à sua complexidade e resulta em erros nos manuais. Para resolver esse problema, foi desenvolvida uma aplicação desktop que se comunica com um servidor interno da empresa. Essa aplicação tem a capacidade de criar, manipular e disponibilizar os manuais de forma mais fácil e acessível para os clientes.
 
 ### Parceiro Acadêmico
 
@@ -213,11 +213,11 @@ EMBRAER - é um conglomerado transnacional brasileiro, fabricante de aviões com
 
 ### Problema
 
-O desafio do projeto foi com base em um problema real enfrentado na Embraer; na empresa toda a aeronave produzida conta com um manual operacional que demonstra o funcionamento de suas peças. No entanto, o manual é criado e mantido de forma manual, utilizando planilhas para fazer o controle do lançamento de manuais atualizados. Além desta prática necessitar de bastante tempo devido a complexidade, implica no surgimento de erros nos manuais.
+O projeto enfrentou o desafio de lidar com um problema real enfrentado na Embraer: todos os aviões produzidos pela empresa contam com um manual operacional que descreve o funcionamento de suas peças. No entanto, a criação e manutenção desses manuais são feitas de forma manual, utilizando planilhas para controlar o lançamento de atualizações. Essa prática consome bastante tempo devido à sua complexidade e resulta em erros nos manuais.
 
 ### Solução
 
-A solução foi elaborar uma aplicação desktop que, comunicando com um servidor interno da empresa, seja capaz de criar, manipular e dispor os manuais para os clientes de fomra facilitada.
+Uma solução foi desenvolvida para abordar esse desafio: uma aplicação desktop que se conecta a um servidor interno da empresa e tem a capacidade de criar, manipular e disponibilizar os manuais de forma simplificada para os clientes.
 
 ### Tecnologias Utilizadas
 
@@ -244,7 +244,7 @@ Atuei como desenvolvedor front-end da aplicação, sendo responsável pela const
 
   <strong> Angular </strong> - sei fazer com ajuda
 
-  <strong> PostgreSQL </strong> - sei fazer com ajuda
+  <strong> PostgreSQL </strong> - sei fazer com autonomia
 
 ### Soft Skills
 
@@ -325,8 +325,10 @@ Organização - A organização e distribuição de tarefas para os integrantes 
 Motivação - Por ser scrum master precisava manter a equipe motivada nas entregas para que não houvesse desânimo por algum feedback ruim ou pelas dificuldades que passamos em todas as sprints para o desenvolvimento do aplicativo, mantendo a tranquilidade para que não estivessem pressionados e pudessem fazer as entregas de forma calma e segura.
   
 **Vídeos do projeto:**
-  
-![application](https://github.com/medrenan/eFol-app/blob/main/docs/Wireframes/Sprint%202/application.gif)
+
+<p align="center">
+  <img src="https://github.com/medrenan/eFol-app/blob/main/docs/Wireframes/Sprint%202/application.gif">
+</p>
   
 <a href="https://github.com/medrenan/eFol-app" target="__blank">Clique aqui para mais informações sobre o projeto</a>
   
